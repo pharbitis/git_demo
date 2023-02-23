@@ -13,4 +13,4 @@ hello alyui! hello git!
 hello alyui! hello git!
 hello alyui! hello git!
 hello alyui! hello git! master test
-hello alyui! hello git!
+hello alyui! hello git! hot-fix test
